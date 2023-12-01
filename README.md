@@ -11,7 +11,7 @@ Welcome to my profile! I am still building it.
   <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="python" height="50px"/>
   <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" alt="fastapi" height="50px"/>
   <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1-1.svg" alt="mongodb" height="50px"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/rust.svg" alt="rust" height="50px"/>
+  <img src="https://www.fpcomplete.com/wp-content/uploads/2023/04/rust-logo-512x512_white.png" alt="rust" height="50px"/>
 </div>
 
 <!--
