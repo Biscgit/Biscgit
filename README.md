@@ -2,7 +2,7 @@
 
 Welcome to my profile! I am still building it.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biscgit&layout=donut&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biscgit&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Skills (+ currently learning)
 
