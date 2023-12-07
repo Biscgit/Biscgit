@@ -9,7 +9,7 @@ Welcome to my profile! I am still building it.
 <div>
   <!--<img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="git" height="50px"/>-->
   <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="python" height="50px"/>
-  <img src="https://global.discourse-cdn.com/business7/uploads/streamlit/optimized/2X/f/f0d0d26db1f2d99da8472951c60e5a1b782eb6fe_2_180x180.png" alt="streamlit" height="50px"/>
+  <img src="https://streamlit.io/favicon.svg" alt="streamlit" height="50px"/>
   <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" alt="fastapi" height="50px"/>
   <img src="https://www.fpcomplete.com/wp-content/uploads/2023/04/rust-logo-512x512_white.png" alt="rust" height="50px"/>
   <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1-1.svg" alt="mongodb" height="50px"/>
