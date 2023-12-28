@@ -2,7 +2,7 @@
 
 Welcome to my profile! I am still building it.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biscgit&layout=donut&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=biscgit&layout=donut&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Skills (+ currently learning)
 
@@ -14,6 +14,10 @@ Welcome to my profile! I am still building it.
   <img src="https://www.fpcomplete.com/wp-content/uploads/2023/04/rust-logo-512x512_white.png" alt="rust" height="50px"/>
   <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1-1.svg" alt="mongodb" height="50px"/>
 </div>
+
+### Cyber Security
+
+<script src="https://tryhackme.com/badge/2390171"></script>
 
 <!--
 **Biscgit/Biscgit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
