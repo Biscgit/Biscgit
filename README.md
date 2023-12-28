@@ -17,9 +17,9 @@ Welcome to my profile! I am still building it.
 
 ### Cyber Security
 
-<script src="https://tryhackme.com/badge/2390171"></script>
-
 <!--
+  <script src='https://tryhackme.com/badge/2390171'>Text</script>
+
 **Biscgit/Biscgit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
