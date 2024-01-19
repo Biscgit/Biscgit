@@ -20,6 +20,8 @@ Welcome to my profile! I am still building it.
 Checkout one of my repositories pinned below!
 
 <!--
+<img src="assets/title_image.svg" alt="title_image"/>
+
 ### Cyber Security
 
   <script src='https://tryhackme.com/badge/2390171'>Text</script>
