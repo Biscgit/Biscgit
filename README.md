@@ -1,4 +1,7 @@
-### Hi there 👋
+<div align="center">
+  <img src="assets/title_image.svg" alt="title_image" width="75%"/>
+</div>
+<h1 align="center">📌 Hello, I'm David!</h1>
 
 Welcome to my profile! I am still building it.
 
@@ -20,7 +23,6 @@ Welcome to my profile! I am still building it.
 Checkout one of my repositories pinned below!
 
 <!--
-<img src="assets/title_image.svg" alt="title_image"/>
 
 ### Cyber Security
 
