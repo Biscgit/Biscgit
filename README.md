@@ -11,10 +11,10 @@ Welcome to my profile! I am still building it.
 ### Skills (+ currently learning)
 
 <div>
-  <!--<img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="git" height="50px"/>-->
+  <img src="https://pngimg.com/uploads/linux/linux_PNG21.png" alt="linux" height="50px"/>
   <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="python" height="50px"/>
-  <img src="https://streamlit.io/favicon.svg" alt="streamlit" height="50px"/>
   <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" alt="fastapi" height="50px"/>
+  <img src="https://streamlit.io/favicon.svg" alt="streamlit" height="50px"/>
   <img src="https://www.fpcomplete.com/wp-content/uploads/2023/04/rust-logo-512x512_white.png" alt="rust" height="50px"/>
   <img src="https://raw.githubusercontent.com/ratatui-org/ratatui/main/assets/logo.png" alt="rust" height="50px"/>
   <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1-1.svg" alt="mongodb" height="50px"/>
