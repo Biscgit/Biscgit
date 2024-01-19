@@ -5,7 +5,8 @@
 
 Welcome to my profile! I am still building it.
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=biscgit&layout=donut&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=biscgit&layout=donut&theme=dracula&hide_border=true&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Skills (+ currently learning)
 
@@ -27,6 +28,7 @@ Checkout one of my repositories pinned below!
 ### Cyber Security
 
   <script src='https://tryhackme.com/badge/2390171'>Text</script>
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=biscgit&rank_icon=github&theme=dracula&hide_border=true)
 
 **Biscgit/Biscgit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
