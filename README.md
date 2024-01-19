@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/title_image.svg" alt="title_image" width="75%"/>
+  <img src="assets/title_image.svg" alt="title_image" width="65%"/>
 </div>
 <h1 align="center">📌 Hello, I'm David!</h1>
 
