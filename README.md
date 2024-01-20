@@ -2,6 +2,8 @@
   <img src="assets/banner.png" alt="gh{flag_banner_found}" width="50%"/>
   <!-- Attribution: Edited Version of https://www.freepik.com/free-vector/cloud-computing-security-abstract-concept-illustration_11668583.htm -->
 </div>
+
+<br>
 <h1 align="center">📌 Hello, I'm David!</h1>
 
 Welcome to my profile! I am still building it.
