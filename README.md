@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/title_image.svg" alt="title_image" width="60%"/>
+  <img src="assets/banner.png" alt="gh{flag_banner_found}" width="55%"/>
 </div>
 <h1 align="center">📌 Hello, I'm David!</h1>
 
