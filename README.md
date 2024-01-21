@@ -25,7 +25,7 @@ Some of my skills that I have experience with or am currently working with. <br>
 </div>
 
 ## More
-#### Checkout one of my repositories pinned below! Give them a star⭐ if you like them❤️!
+**Checkout one of my repositories pinned below! Give them a star⭐ if you like them❤️!**
 
 <!--
 
