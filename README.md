@@ -6,13 +6,13 @@
 <br>
 <h1 align="center">📌 Hello, I'm David!</h1>
 
-Welcome to my profile! I am still building it.
+I am an engaged Cyberscurity Student🎓 studying in Germany. I speak English, German and Hungarian. Security focused software development💻 and learning about IT topics💡 is what I enjoy the most. Some of my favourite programming Languages are Python🐍 and Rust🦀.
 
+## Coding Stats
 [![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=biscgit&layout=donut&theme=dracula&hide_border=true&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
 
-
-### Skills (+ currently learning)
-
+## Skills
+Some of my skills that I have experience with or am currently working with. <br>
 <div>
   <img src="https://pngimg.com/uploads/linux/linux_PNG21.png" alt="linux" height="50px"/>
   <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="python" height="50px"/>
@@ -24,9 +24,8 @@ Welcome to my profile! I am still building it.
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Sqlite-square-icon.svg" alt="sqlite" height="50px"/>
 </div>
 
-
-<br>
-Checkout one of my repositories pinned below!
+## More
+#### Checkout one of my repositories pinned below! Give them a star⭐ if you like them❤️!
 
 <!--
 
