@@ -11,7 +11,7 @@ I am an engaged Cyberscurity Student🎓 studying in Germany. I speak English, G
 ## Coding Stats
 [![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=biscgit&layout=donut&theme=dracula&hide_border=true&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
 
-## Skills
+## Skillset
 Some of my skills that I have experience with or am currently working with. <br>
 <div>
   <img src="https://pngimg.com/uploads/linux/linux_PNG21.png" alt="linux" height="50px"/>
