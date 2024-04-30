@@ -20,6 +20,7 @@ Languages and more that I have experience with or am currently working with. <br
   <img src="https://streamlit.io/favicon.svg" alt="streamlit" height="50px"/>
   <img src="https://www.fpcomplete.com/wp-content/uploads/2023/04/rust-logo-512x512_white.png" alt="rust" height="50px"/>
   <img src="https://ratatui.rs/_astro/hero-dark.sdDaGsSQ_Z10Cldg.webp" alt="ratatui" height="50px"/>
+  <img src="https://storage.googleapis.com/cms-storage-bucket/0dbfcc7a59cd1cf16282.png" alt="flutter" height="50px"/>
   <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1-1.svg" alt="mongodb" height="50px"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Sqlite-square-icon.svg" alt="sqlite" height="50px"/>
   <img src="https://cdn.worldvectorlogo.com/logos/docker-4.svg" alt="docker" height="50px"/>
