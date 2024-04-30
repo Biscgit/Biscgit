@@ -17,6 +17,7 @@ Languages and more that I have experience with or am currently working with. <br
   <img src="https://pngimg.com/uploads/linux/linux_PNG21.png" alt="linux" height="50px"/>
   <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="python" height="50px"/>
   <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" alt="fastapi" height="50px"/>
+  <img src="https://avatars.githubusercontent.com/u/104714959?s=200&v=4" alt="reflex" height="50px"/>
   <img src="https://streamlit.io/favicon.svg" alt="streamlit" height="50px"/>
   <img src="https://www.fpcomplete.com/wp-content/uploads/2023/04/rust-logo-512x512_white.png" alt="rust" height="50px"/>
   <img src="https://ratatui.rs/_astro/hero-dark.sdDaGsSQ_Z10Cldg.webp" alt="ratatui" height="50px"/>
