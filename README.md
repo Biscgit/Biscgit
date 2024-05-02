@@ -13,21 +13,20 @@ I am an engaged Cyberscurity Student🎓 studying in Germany. I speak English, G
 
 ## Skillset
 Languages and more that I have experience with or am currently working with. <br>
+
 <div>
-  <img src="https://pngimg.com/uploads/linux/linux_PNG21.png" alt="linux" height="50px"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="python" height="50px"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" alt="fastapi" height="50px"/>
-  <img src="https://avatars.githubusercontent.com/u/104714959?s=200&v=4" alt="reflex" height="50px"/>
-  <img src="https://streamlit.io/favicon.svg" alt="streamlit" height="50px"/>
-  <img src="https://www.fpcomplete.com/wp-content/uploads/2023/04/rust-logo-512x512_white.png" alt="rust" height="50px"/>
-  <img src="https://ratatui.rs/_astro/hero-dark.sdDaGsSQ_Z10Cldg.webp" alt="ratatui" height="50px"/>
-  <img src="https://storage.googleapis.com/cms-storage-bucket/0dbfcc7a59cd1cf16282.png" alt="flutter" height="50px"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1-1.svg" alt="mongodb" height="50px"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Sqlite-square-icon.svg" alt="sqlite" height="50px"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/docker-4.svg" alt="docker" height="50px"/>
-  <img src="https://www.svgrepo.com/show/373924/nginx.svg" alt="nginx" height="50px"/>
-  
-  
+  <a href=https://archlinux.org/><img src="https://pngimg.com/uploads/linux/linux_PNG21.png" alt="linux" height="50px"/></a>
+  <a href=https://www.python.org/><img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="python" height="50px"/></a>
+  <a href=https://fastapi.tiangolo.com/><img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" alt="fastapi" height="50px"/></a>
+  <a href=https://reflex.dev/><img src="https://avatars.githubusercontent.com/u/104714959?s=200&v=4" alt="reflex" height="50px"/></a>
+  <a href=https://streamlit.io/><img src="https://streamlit.io/favicon.svg" alt="streamlit" height="50px"/></a>
+  <a href=https://www.rust-lang.org/><img src="https://www.fpcomplete.com/wp-content/uploads/2023/04/rust-logo-512x512_white.png" alt="rust" height="50px"/></a>
+  <a href=https://ratatui.rs/><img src="https://ratatui.rs/_astro/hero-dark.sdDaGsSQ_Z10Cldg.webp" alt="ratatui" height="50px"/></a>
+  <a href=https://flutter.dev/><img src="https://storage.googleapis.com/cms-storage-bucket/0dbfcc7a59cd1cf16282.png" alt="flutter" height="50px"/></a>
+  <a href=https://www.mongodb.com/><img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1-1.svg" alt="mongodb" height="50px"/></a>
+  <a href=https://www.sqlite.org/><img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Sqlite-square-icon.svg" alt="sqlite" height="50px"/></a>
+  <a href=https://www.docker.com/><img src="https://cdn.worldvectorlogo.com/logos/docker-4.svg" alt="docker" height="50px"/></a>
+  <a href=https://www.nginx.com/><img src="https://www.svgrepo.com/show/373924/nginx.svg" alt="nginx" height="50px"/></a>
 </div>
 
 ## More
