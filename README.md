@@ -26,7 +26,7 @@ Languages and more that I have experience with or am currently working with. <br
   <a href=https://www.mongodb.com/><img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1-1.svg" alt="mongodb" height="50px"/></a>
   <a href=https://www.sqlite.org/><img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Sqlite-square-icon.svg" alt="sqlite" height="50px"/></a>
   <a href=https://www.docker.com/><img src="https://cdn.worldvectorlogo.com/logos/docker-4.svg" alt="docker" height="50px"/></a>
-  <a href=https://www.nginx.com/><img src="https://www.svgrepo.com/show/373924/nginx.svg" alt="nginx" height="50px"/></a>
+  <a href=https://www.nginx.org/><img src="https://www.svgrepo.com/show/373924/nginx.svg" alt="nginx" height="50px"/></a>
 </div>
 
 ## More
