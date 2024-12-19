@@ -21,7 +21,7 @@ Languages and more that I have experience with or am currently working with. <br
   <a href=https://reflex.dev/><img src="https://avatars.githubusercontent.com/u/104714959?s=200&v=4" alt="reflex" height="50px"/></a>
   <a href=https://streamlit.io/><img src="https://streamlit.io/favicon.svg" alt="streamlit" height="50px"/></a>
   <a href=https://www.rust-lang.org/><img src="https://www.fpcomplete.com/wp-content/uploads/2023/04/rust-logo-512x512_white.png" alt="rust" height="50px"/></a>
-  <a href=https://ratatui.rs/><img src="https://ratatui.rs/_astro/hero-dark.sdDaGsSQ_Z10Cldg.webp" alt="ratatui" height="50px"/></a>
+  <a href=https://ratatui.rs/><img src="https://ratatui.rs/_astro/hero-dark.sdDaGsSQ_Z1JuwEh.webp" alt="ratatui" height="50px"/></a>
   <a href=https://flutter.dev/><img src="https://storage.googleapis.com/cms-storage-bucket/0dbfcc7a59cd1cf16282.png" alt="flutter" height="50px"/></a>
   <a href=https://www.mongodb.com/><img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1-1.svg" alt="mongodb" height="50px"/></a>
   <a href=https://www.sqlite.org/><img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Sqlite-square-icon.svg" alt="sqlite" height="50px"/></a>
