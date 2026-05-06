@@ -21,7 +21,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=donut&theme=dracula&hide_border=true&bg_color=80808010&size_weight=0.75&count_weight=0.25&langs_count=5
+          options: username=${{ github.repository_owner }}&layout=donut&theme=dracula&hide_border=true&bg_color=80808008&size_weight=0.75&count_weight=0.25&langs_count=5
           path: assets/stats/languages.svg
           token: ${{ secrets.PROFILE_READ_TOKEN }}
 
@@ -29,7 +29,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=${{ github.repository_owner }}&repo=streamlet&theme=dracula&hide_border=true&bg_color=80808010
+          options: username=${{ github.repository_owner }}&repo=streamlet&theme=dracula&hide_border=true&bg_color=80808008
           path: assets/stats/streamlet.svg
           token: ${{ secrets.PROFILE_READ_TOKEN }}
 

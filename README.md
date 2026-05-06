@@ -80,4 +80,5 @@ I am a huge fan of the following, check them out!
 
 <br>
 
-**Checkout one of my repositories pinned below! Leave a star⭐ if you like them❤️!**
+**Checkout one of my repositories pinned below! Leave a ⭐ if you like them!**
+**◦ Everyone Welcome 🌈❤️**
