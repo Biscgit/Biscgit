@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48">
+  <defs>
+  <clipPath id="outerClip">
+      <rect x="0" y="0" width="48" height="48" rx="8" ry="8"/>
+    </clipPath>
+    <clipPath id="innerClip">
+      <rect x="4" y="4" width="38" height="38" rx="4" ry="4"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#outerClip)">
+    <rect x="0" y="0" width="48" height="48" rx="8" ry="8" fill="#80808010"/>
+  </g>
+
+  <image
+    x="4" y="4" width="38" height="38"
+    preserveAspectRatio="xMidYMid meet"
+    clip-path="url(#innerClip)"
+    href="data:image/svg+xml;base64,
+    PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9Im5vbmUiIHZpZXdC
+    b3g9IjAgMCAyNCAyNCIgaWQ9Ik5hdHMtSWNvbi0tU3RyZWFtbGluZS1TdmctTG9nb3MiIGhlaWdo
+    dD0iMjQiIHdpZHRoPSIyNCI+CiAgPGRlc2M+CiAgICBOYXRzIEljb24gU3RyZWFtbGluZSBJY29u
+    OiBodHRwczovL3N0cmVhbWxpbmVocS5jb20KICA8L2Rlc2M+CiAgPHBhdGggZmlsbD0iIzM0YTU3
+    NCIgZD0iTTEyIDAuMjVoMTEuMzQ5Nzc1djkuMjAxMTVIMTJWMC4yNVoiIHN0cm9rZS13aWR0aD0i
+    MC4yNSI+PC9wYXRoPgogIDxwYXRoIGZpbGw9IiMyN2FhZTEiIGQ9Ik0wLjY1MDE0NzUgMC4yNUgx
+    MS45OTk5MjV2OS4yMDExNUgwLjY1MDE0NzVWMC4yNVoiIHN0cm9rZS13aWR0aD0iMC4yNSI+PC9w
+    YXRoPgogIDxwYXRoIGZpbGw9IiM4ZGM2M2YiIGQ9Ik0yMy4zNDk2NSA5LjQ1OTZWMTguNjYwNzVI
+    MTUuODg0MjV2NS4wODkyNzVMMTAuMzMxNTUgMTguNjc3NmwxLjY2ODMyNSAtMC4wNjc0MjVWOS40
+    NTk2aDExLjM0OTc3NVoiIHN0cm9rZS13aWR0aD0iMC4yNSI+PC9wYXRoPgogIDxwYXRoIGZpbGw9
+    IiMzNzVjOTMiIGQ9Ik0xMS45OTk5MjUgOS40NTk2djEwLjcwMDQ1bC0xLjY2ODM1IC0xLjQ4MjQ1
+    SDAuNjUwMTQ3NXYtOS4yMThIMTEuOTk5OTI1WiIgc3Ryb2tlLXdpZHRoPSIwLjI1Ij48L3BhdGg+
+    CiAgPHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTE2LjcwMTcyNSAxMi4xNDc0NVY0LjUzMDRoMi43
+    MTMxNXY5Ljg0OTk1SDE1LjMwMzAyNUw3LjAwMzQ1IDYuNjI4NDV2Ny43NjAzMjVINC4yODE4NVY0
+    LjUzMDRoNC4yNTUxMjVsOC4xNjQ3NSA3LjYxNzA1WiIgc3Ryb2tlLXdpZHRoPSIwLjI1Ij48L3Bh
+    dGg+Cjwvc3ZnPg=="
+  />
+</svg>

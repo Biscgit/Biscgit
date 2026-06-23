@@ -1,17 +1,18 @@
 <img src="assets/header.svg" alt="Hello!">
 
-I am an engaged Cybersecurity Student🎓 studying in Germany.
+I am an engaged Cybersecurity Student studying in Germany.
 I can speak English, German, Hungarian and a little French.
 
 During my studies, I did a one-year technical student internship at [CERN](https://home.cern).
 There I was mostly working on CERN's Open Data service [@cernopendata](https://github.com/cernopendata).
 Furthermore, I contributed to the Invenio framework [@invenio](https://github.com/inveniosoftware)
-(check our [team](https://inveniosoftware.org/people/) and current developers!)
+(check our [team](https://inveniosoftware.org/people/)!)
 
 I am passionate about security focused software development💻, service monitoring🔭 and open source software📂.
 Furthermore, I enjoy learning about new topics💡, and gazing at the stars of the night sky🌌.
 
 <br>
+
 <img src="assets/header_2.svg" alt="Languages and more">
 
 A selection of languages, frameworks and software that I have experience with:
@@ -50,10 +51,13 @@ In addition, I am currently learning about the following:
   <a href="https://elixir-lang.org"><img src="assets/icons/elixir.svg" alt="E"></a>
   <a href="https://www.phoenixframework.org"><img src="assets/icons/phoenix.svg" alt="P"></a>
   <a href="https://https://www.rabbitmq.com"><img src="assets/icons/rabbitmq.svg" alt="R"></a>
+  <a href="https://docs.nats.io"><img src="assets/icons/nats.svg" alt="N"></a>
+  <a href="https://kubernetes.io"><img src="assets/icons/kubernetes.svg" alt="K"></a>
   <a href="https://go.dev"><img src="assets/icons/golang.svg" alt="G"></a>
 </div>
 
 <br>
+
 <img src="assets/header_3.svg" alt="Stats">
 
 <div>
@@ -69,7 +73,23 @@ In addition, I am currently learning about the following:
 </div>
 
 <br>
+
 <img src="assets/header_4.svg" alt="More">
+
+
+<details>
+<summary>About me</summary>
+
+- **Languages:**
+
+  🇩🇪 🇭🇺 🇬🇧 (🇫🇷)
+
+
+- **Interests:**
+
+  🎓💻 ◦ ⛰️🏂 ◦ 🌌🔭 ◦ 🚆🗺️
+
+</details>
 
 I am a huge fan of the following, check them out!
 
